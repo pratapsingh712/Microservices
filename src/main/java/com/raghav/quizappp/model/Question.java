@@ -1,4 +1,4 @@
-package com.raghav.quizappp;
+package com.raghav.quizappp.model;
 
 
 import jakarta.persistence.Entity;
